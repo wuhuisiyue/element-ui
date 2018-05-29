@@ -1,0 +1,215 @@
+{
+  "zh-CN": [
+    {
+      "name": "组件",
+      "groups": [
+        {
+          "groupName": "Basic",
+          "list": [
+            {
+              "path": "/Layout",
+              "title": "Layout 布局"
+            },
+            {
+              "path": "/Container",
+              "title": "Container 布局容器"
+            },
+            {
+              "path": "/Color",
+              "title": "Color 色彩"
+            },
+            {
+              "path": "/Typography",
+              "title": "Typography 字体"
+            },
+            {
+              "path": "/Icon",
+              "title": "Icon 图标"
+            },
+            {
+              "path": "/Button",
+              "title": "Button 按钮"
+            }
+          ]
+        },
+        {
+          "groupName": "Form",
+          "list": [
+            {
+              "path": "/Radio",
+              "title": "Radio 单选框"
+            },
+            {
+              "path": "/Checkbox",
+              "title": "Checkbox 多选框"
+            },
+            {
+              "path": "/Input",
+              "title": "Input 输入框"
+            },
+            {
+              "path": "/InputNumber",
+              "title": "InputNumber 计数器"
+            },
+            {
+              "path": "/Select",
+              "title": "Select 选择器"
+            },
+            {
+              "path": "/Cascader",
+              "title": "Cascader 级联选择器"
+            },
+            {
+              "path": "/Switch",
+              "title": "Switch 开关"
+            },
+            {
+              "path": "/Slider",
+              "title": "Slider 滑块"
+            },
+            {
+              "path": "/TimePicker",
+              "title": "TimePicker 时间选择器"
+            },
+            {
+              "path": "/DatePicker",
+              "title": "DatePicker 日期选择器"
+            },
+            {
+              "path": "/DatetimePicker",
+              "title": "DateTimePicker 日期时间选择器"
+            },
+            {
+              "path": "/Upload",
+              "title": "Upload 上传"
+            },
+            {
+              "path": "/Rate",
+              "title": "Rate 评分"
+            },
+            {
+              "path": "/ColorPicker",
+              "title": "ColorPicker 颜色选择器"
+            },
+            {
+              "path": "/Transfer",
+              "title": "Transfer 穿梭框"
+            },
+            {
+              "path": "/Form",
+              "title": "Form 表单"
+            }
+          ]
+        },
+        {
+          "groupName": "Data",
+          "list": [
+            {
+              "path": "/Table",
+              "title": "Table 表格"
+            },
+            {
+              "path": "/Tag",
+              "title": "Tag 标签"
+            },
+            {
+              "path": "/Progress",
+              "title": "Progress 进度条"
+            },
+            {
+              "path": "/Tree",
+              "title": "Tree 树形控件"
+            },
+            {
+              "path": "/Pagination",
+              "title": "Pagination 分页"
+            },
+            {
+              "path": "/Badge",
+              "title": "Badge 标记"
+            }
+          ]
+        },
+        {
+          "groupName": "Notice",
+          "list": [
+            {
+              "path": "/Alert",
+              "title": "Alert 警告"
+            },
+            {
+              "path": "/Loading",
+              "title": "Loading 加载"
+            },
+            {
+              "path": "/Message",
+              "title": "Message 消息提示"
+            },
+            {
+              "path": "/MessageBox",
+              "title": "MessageBox 弹框"
+            },
+            {
+              "path": "/Notification",
+              "title": "Notification 通知"
+            }
+          ]
+        },
+        {
+          "groupName": "Navigation",
+          "list": [
+            {
+              "path": "/NavMenu",
+              "title": "NavMenu 导航菜单"
+            },
+            {
+              "path": "/Tabs",
+              "title": "Tabs 标签页"
+            },
+            {
+              "path": "/Breadcrumb",
+              "title": "Breadcrumb 面包屑"
+            },
+            {
+              "path": "/Dropdown",
+              "title": "Dropdown 下拉菜单"
+            },
+            {
+              "path": "/Steps",
+              "title": "Steps 步骤条"
+            }
+          ]
+        },
+        {
+          "groupName": "Others",
+          "list": [
+            {
+              "path": "/Dialog",
+              "title": "Dialog 对话框"
+            },
+            {
+              "path": "/Tooltip",
+              "title": "Tooltip 文字提示"
+            },
+            {
+              "path": "/Popover",
+              "title": "Popover 弹出框"
+            },
+            {
+              "path": "/Card",
+              "title": "Card 卡片"
+            },
+            {
+              "path": "/Carousel",
+              "title": "Carousel 走马灯"
+            },
+            {
+              "path": "/Collapse",
+              "title": "Collapse 折叠面板"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
